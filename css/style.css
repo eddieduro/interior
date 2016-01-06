@@ -1,0 +1,16 @@
+.column {
+  width: 30%;
+  float: left;
+  padding: 3px;
+}
+
+.intro {
+  font-style: italic;
+
+}
+
+img {
+  width: auto;
+  height: auto;
+  padding: 2px;
+}
